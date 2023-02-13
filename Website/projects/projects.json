@@ -11,7 +11,7 @@
   },
   {
     "name": "Graduation project",
-    "desc": "delivery app which help users to order anything in KSU campus by providing a range of couriers around KSU campus throughout a flexible system. The application is developed using the IOS platform and utilizing Flutter",
+    "desc": "delivery app which help users to order in KSU campus by providing couriers around KSU campus throughout a flexible system. The application is developed using Flutter",
     "category": "flutter",
     "links": {
       "view": "",
