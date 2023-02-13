@@ -11,7 +11,7 @@
   },
   {
     "name": "Graduation project",
-    "desc": "delivery app that will help users to order anything from anywhere in KSU campus by providing a wide range of couriers around KSU campus throughout a flexible system. The application is developed using the IOS platform and utilizing Flutter as the main programming language used to develop such as iOS",
+    "desc": "delivery app which help users to order anything in KSU campus by providing a range of couriers around KSU campus throughout a flexible system. The application is developed using the IOS platform and utilizing Flutter",
     "category": "mern",
     "links": {
       "view": "",
@@ -20,7 +20,7 @@
   },
   {
     "name": "TRIPIT",
-    "desc": "a booking application for  Riyadh metro with different users, admin, passenger, and guest, that facilitate the process of purchasing tickets and managing the trips. Built using flutter",
+    "desc": "a booking application for  Riyadh metro with different users, that facilitate the process of purchasing tickets and managing the trips. Built by using flutter",
     "category": "mern",
     "links": {
       "view": "",
