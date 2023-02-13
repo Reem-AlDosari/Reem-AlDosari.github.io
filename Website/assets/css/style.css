@@ -406,8 +406,13 @@ header .navbar ul li a:hover {
 .about .row .content .box-container .box p span {
   color: #011aff;
 }
+.center{
+  margin-left: 45rem
+
+}
 .resumebtn {
   margin-top: 6rem;
+  margin-left: 58rem;
 }
 .resumebtn .btn {
   padding: 1.7rem 3rem;
