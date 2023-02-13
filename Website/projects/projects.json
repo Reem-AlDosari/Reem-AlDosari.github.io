@@ -2,7 +2,7 @@
 
   {
     "name": "Calculator",
-    "desc": "simple calculator in which it can perform basic arithmetic operations like addition, subtraction, multiplication, or division. Built using Python",
+    "desc": "Simple calculator in which it can perform basic arithmetic operations like addition, subtraction, multiplication, or division. Built using Python",
     "category": "python",
     "links": {
       "view": "",
@@ -11,7 +11,7 @@
   },
   {
     "name": "Graduation project",
-    "desc": "delivery app which help users to order in KSU campus by providing couriers around KSU campus throughout a flexible system. The application is developed using Flutter",
+    "desc": "Delivery app which help users to order in KSU campus by providing couriers around KSU campus throughout a flexible system. Built using Flutter",
     "category": "flutter",
     "links": {
       "view": "",
@@ -20,7 +20,7 @@
   },
   {
     "name": "TRIPIT",
-    "desc": "a booking application for  Riyadh metro with different users, that facilitate the process of purchasing tickets and managing the trips. Built by using flutter",
+    "desc": "A booking application for  Riyadh metro with different users, that facilitate the process of purchasing tickets and managing the trips. Built by using flutter",
     "category": "flutter",
     "links": {
       "view": "",
@@ -29,7 +29,7 @@
   },
   {
     "name": "Indeed",
-    "desc": " provides the job seeker with jobs information, online applying for jobs and many other facilities. Built using HTML,CSS,Jquery,PHP,SQL ",
+    "desc": "Provides the job seeker with jobs information, online applying for jobs and many other facilities. Built using HTML,CSS,Jquery,PHP,SQL ",
     "category": "web",
     "links": {
       "view": "",
@@ -38,7 +38,7 @@
   },
   {
     "name": "Expo 2020 Dubai",
-    "desc": "identify the people's impression of Expo 2020, and if they enjoy and learn from it, or if it’s considered as an ordinary event and find out what they would like to experience by analyzing the data available about it on the Twitter application through Arabic tweets.",
+    "desc": "Identify the people's impression of Expo 2020, and if they enjoy and learn from it, or if it’s considered as an ordinary event and find out what they would like to experience by analyzing the data available about it on the Twitter application through Arabic tweets.",
     "category": "python",
     "links": {
       "view": "",
