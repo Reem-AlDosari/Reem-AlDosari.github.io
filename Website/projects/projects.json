@@ -3,7 +3,7 @@
   {
     "name": "Calculator",
     "desc": "simple calculator in which it can perform basic arithmetic operations like addition, subtraction, multiplication, or division. Built using Python",
-    "category": "mern",
+    "category": "python",
     "links": {
       "view": "",
       "code": ""
@@ -12,7 +12,7 @@
   {
     "name": "Graduation project",
     "desc": "delivery app which help users to order anything in KSU campus by providing a range of couriers around KSU campus throughout a flexible system. The application is developed using the IOS platform and utilizing Flutter",
-    "category": "mern",
+    "category": "flutter",
     "links": {
       "view": "",
       "code": ""
@@ -21,7 +21,7 @@
   {
     "name": "TRIPIT",
     "desc": "a booking application for  Riyadh metro with different users, that facilitate the process of purchasing tickets and managing the trips. Built by using flutter",
-    "category": "mern",
+    "category": "flutter",
     "links": {
       "view": "",
       "code": ""
@@ -30,7 +30,7 @@
   {
     "name": "Indeed",
     "desc": " provides the job seeker with jobs information, online applying for jobs and many other facilities. Built using HTML,CSS,Jquery,PHP,SQL ",
-    "category": "mern",
+    "category": "web",
     "links": {
       "view": "",
       "code": ""
@@ -39,7 +39,7 @@
   {
     "name": "Expo 2020 Dubai",
     "desc": "identify the people's impression of Expo 2020, and if they enjoy and learn from it, or if it’s considered as an ordinary event and find out what they would like to experience by analyzing the data available about it on the Twitter application through Arabic tweets.",
-    "category": "lamp",
+    "category": "python",
     "links": {
       "view": "",
       "code": ""
@@ -48,7 +48,7 @@
   {
     "name": "DBS",
     "desc": "Doctor Best Schedule: A Backtracking-Based Solution for Optimal Assignments Plans,This project is about making smart surgery scheduling, for surgery schedules for the rooms and meetings conditions with minimum empty slots.",
-    "category": "basicweb",
+    "category": "java",
     "links": {
       "view": "",
       "code": ""
