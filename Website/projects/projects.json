@@ -10,8 +10,8 @@
     }
   },
   {
-    "name": "",
-    "desc": "",
+    "name": "Graduation project",
+    "desc": "delivery app that will help users to order anything from anywhere in KSU campus by providing a wide range of couriers around KSU campus throughout a flexible system. The application is developed using the IOS platform and utilizing Flutter as the main programming language used to develop such as iOS",
     "category": "mern",
     "links": {
       "view": "",
@@ -19,8 +19,8 @@
     }
   },
   {
-    "name": "",
-    "desc": "",
+    "name": "TRIPIT",
+    "desc": "a booking application for  Riyadh metro with different users, admin, passenger, and guest, that facilitate the process of purchasing tickets and managing the trips. Built using flutter",
     "category": "mern",
     "links": {
       "view": "",
@@ -28,8 +28,8 @@
     }
   },
   {
-    "name": "",
-    "desc": "",
+    "name": "Indeed",
+    "desc": " provides the job seeker with jobs information, online applying for jobs and many other facilities. Built using HTML,CSS,Jquery,PHP,SQL ",
     "category": "mern",
     "links": {
       "view": "",
@@ -37,8 +37,8 @@
     }
   },
   {
-    "name": "",
-    "desc": "",
+    "name": "Expo 2020 Dubai",
+    "desc": "identify the people's impression of Expo 2020, and if they enjoy and learn from it, or if it’s considered as an ordinary event and find out what they would like to experience by analyzing the data available about it on the Twitter application through Arabic tweets.",
     "category": "lamp",
     "links": {
       "view": "",
@@ -46,8 +46,8 @@
     }
   },
   {
-    "name": "",
-    "desc": "",
+    "name": "DBS",
+    "desc": "Doctor Best Schedule: A Backtracking-Based Solution for Optimal Assignments Plans,This project is about making smart surgery scheduling, for surgery schedules for the rooms and meetings conditions with minimum empty slots.",
     "category": "basicweb",
     "links": {
       "view": "",
