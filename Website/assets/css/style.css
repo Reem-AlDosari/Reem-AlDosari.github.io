@@ -464,6 +464,19 @@ header .navbar ul li a:hover {
     gap: 0;
   }
 }
+.name1{
+  font-size: 4.5rem;
+ 
+}
+.title1{
+  font-size: 3.5rem;
+  
+}
+.discreption{
+  font-size: 2rem;
+  font-family: "Nunito";
+ 
+}
 /* about media queries ends*/
 /* about section ends */
 
