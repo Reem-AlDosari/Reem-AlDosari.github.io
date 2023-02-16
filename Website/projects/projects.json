@@ -1,21 +1,13 @@
 [
 
-  {
-    "name": "Calculator",
-    "desc": "Simple calculator in which it can perform basic arithmetic operations like addition, subtraction, multiplication, or division. Built using Python",
-    "category": "python",
-    "links": {
-      "view": "",
-      "code": ""
-    }
-  },
+ 
   {
     "name": "Graduation project",
     "desc": "Delivery app which help users to order in KSU campus by providing couriers around KSU campus throughout a flexible system. Built using Flutter",
     "category": "flutter",
     "links": {
-      "view": "",
-      "code": ""
+      "view": "https://github.com/Reem-AlDosari/KSU-Delivery-Service",
+      "code": "https://github.com/Reem-AlDosari/KSU-Delivery-Service"
     }
   },
   {
@@ -23,17 +15,27 @@
     "desc": "A booking application for  Riyadh metro with different users, that facilitate the process of purchasing tickets and managing the trips. Built by using flutter",
     "category": "flutter",
     "links": {
-      "view": "",
-      "code": ""
+      "view": "https://github.com/Reem-AlDosari/TripIt",
+      "code": "https://github.com/Reem-AlDosari/TripIt"
     }
   },
+  {
+    "name": "GLT",
+    "desc": "GLT is an android mobile application which is a group location tracking, the application provides a real time location service as it allows family members and friends to share their location information using this application, Build using java,firebase",
+    "category": "java",
+    "links": {
+      "view": "https://github.com/Reem-AlDosari/GLT",
+      "code": "https://github.com/Reem-AlDosari/GLT"
+    }
+  },
+  
   {
     "name": "Indeed",
     "desc": "Provides the job seeker with jobs information, online applying for jobs and many other facilities. Built using HTML,CSS,Jquery,PHP,SQL ",
     "category": "web",
     "links": {
-      "view": "",
-      "code": ""
+      "view": "https://github.com/Reem-AlDosari/Indeed",
+      "code": "https://github.com/Reem-AlDosari/Indeed"
     }
   },
   {
@@ -41,8 +43,8 @@
     "desc": "Identify the people's impression of Expo 2020, and if they enjoy and learn from it, or if it’s considered as an ordinary event and find out what they would like to experience by analyzing the data available about it on the Twitter application through Arabic tweets.",
     "category": "python",
     "links": {
-      "view": "",
-      "code": ""
+      "view": "https://github.com/Reem-AlDosari/Expo-2020-Dubai",
+      "code": "https://github.com/Reem-AlDosari/Expo-2020-Dubai"
     }
   },
   {
@@ -50,8 +52,8 @@
     "desc": "Doctor Best Schedule: A Backtracking-Based Solution for Optimal Assignments Plans,This project is about making smart surgery scheduling, for surgery schedules for the rooms and meetings conditions with minimum empty slots.",
     "category": "java",
     "links": {
-      "view": "",
-      "code": ""
+      "view": "https://github.com/Reem-AlDosari/DBS",
+      "code": "https://github.com/Reem-AlDosari/DBS"
     }
   }
   
